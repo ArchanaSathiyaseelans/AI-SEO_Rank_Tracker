@@ -15,17 +15,19 @@ Features in this project 🔥
 ✅ Deployment - Vercel application
 
 
-How to Run Project
+<b>How to Run Project </b>
 In Vs Code
-1. Open backend folder in Integrated terminal
-   npm install
-   npm run server
-   add all environmental variables in .env file
+
+1. Open backend folder in Integrated terminal <br>
+   npm install <br>
+   npm run server <br>
+   add all environmental variables in .env file <br>
+   <br>
 
 
-2. Open Frontend folder in Integrated terminal
-   npm install
-   npm run dev
-   add all environmental variables in .env file
-
-Deploy both Frontend and Backend file separately on Vercel.    
+2. Open Frontend folder in Integrated terminal <br>
+   npm install <br>
+   npm run dev <br>
+   add all environmental variables in .env file <br>
+<br> <br>
+<b>Deploy both Frontend and Backend file separately on Vercel.  </b>  
