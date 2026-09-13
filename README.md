@@ -21,13 +21,13 @@ In Vs Code
 1. Open backend folder in Integrated terminal <br>
    npm install <br>
    npm run server <br>
-   add all environmental variables in .env file <br>
+   add all environmental variables in <b>.env</b> file <br>
    <br>
 
 
 2. Open Frontend folder in Integrated terminal <br>
    npm install <br>
    npm run dev <br>
-   add all environmental variables in .env file <br>
+   add all environmental variables in <b>.env</b> file <br>
 <br> <br>
 <b>Deploy both Frontend and Backend file separately on Vercel.  </b>  
