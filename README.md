@@ -13,3 +13,19 @@ Features in this project 🔥
 ✅ Database Integration MongoDB <br>
 ✅ REST API Development <br>
 ✅ Deployment - Vercel application
+
+
+How to Run Project
+In Vs Code
+1. Open backend folder in Integrated terminal
+   npm install
+   npm run server
+   add all environmental variables in .env file
+
+
+2. Open Frontend folder in Integrated terminal
+   npm install
+   npm run dev
+   add all environmental variables in .env file
+
+Deploy both Frontend and Backend file separately on Vercel.    
