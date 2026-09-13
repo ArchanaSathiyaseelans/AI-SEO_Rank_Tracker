@@ -1,8 +1,8 @@
-Live URL = https://ai-seo-rank-tracker-fronend.vercel.app
+<b>Live URL = https://ai-seo-rank-tracker-fronend.vercel.app</b>
 
 Full-stack application using MongoDB, Express.js, React.js and Node.js. Browser base for browser automation and website scraping, and Gemini AI for intelligent SEO analysis and report creation. Engineered real-time ranking history monitoring with interactive analytics and automated AI-driven SEO recommendation reports.
 
-Features in this project 🔥
+<b>Features in this project 🔥</b>
 
 ✅ Website SEO Analyzer Tool <br>
 ✅ AI SEO Report Creator <br>
